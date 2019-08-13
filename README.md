@@ -1,5 +1,5 @@
 # 散列表实现字典Dictionary
-再散列法实现散列表，散列表实现字典Dictionary，原文地址：  
+再散列法实现散列表，散列表实现字典Dictionary，原文地址：http://www.srcmini.com/1507.html  
 
 ## 字典Dictionary函数说明
 ### 1、初始化字典Dictionary
